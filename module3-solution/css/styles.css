@@ -1,0 +1,27 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+/** HEADER **/
+.navbar {
+  background-color: grey;
+  border-radius: 0;
+  border: 0; 
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  height: 100px;
+}
+
+.navbar-brand h1 {
+	margin-top: 0;
+	margin-bottom: 0;
+	color: black;
+}
+
+.collapsable-nav {
+  background-color: white;
+}
